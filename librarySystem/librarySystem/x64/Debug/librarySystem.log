@@ -1,0 +1,5 @@
+﻿  librarySystem.cpp
+C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 3\temp\Adv-Programming\librarySystem\librarySystem\clientSocket.h(94,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'librarySystem.cpp')
+  
+  librarySystem.vcxproj -> C:\Users\spgaw\Desktop\EVERYTHING\Uni Coursework\Year 3\temp\Adv-Programming\librarySystem\x64\Debug\librarySystem.exe
